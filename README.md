@@ -6,3 +6,5 @@
  #1 第一次课（2020.11.1）  0. 综合介绍 [slides](https://github.com/GuanyuCui/RUC-infohands-2020/blob/main/slides/0_综合介绍.pdf)
 
  #2 第二次课（2020.11.7）  1. 数据、运算与控制 [slides](https://github.com/GuanyuCui/RUC-infohands-2020/blob/main/slides/1_数据、运算与控制.pdf)
+
+ #3 第三次课（2020.11.14）  2. 数组与函数 [slides](https://github.com/GuanyuCui/RUC-infohands-2020/blob/main/slides/2_数组与函数.pdf)
