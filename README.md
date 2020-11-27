@@ -8,3 +8,5 @@
  #2 第二次课（2020.11.7）  1. 数据、运算与控制 [slides](https://github.com/GuanyuCui/RUC-infohands-2020/blob/main/slides/1_数据、运算与控制.pdf)
 
  #3 第三次课（2020.11.14）  2. 数组与函数 [slides](https://github.com/GuanyuCui/RUC-infohands-2020/blob/main/slides/2_数组与函数.pdf)
+
+ #4 第四次课（2020.11.28）  3. 指针与自定义类型 [slides](https://github.com/GuanyuCui/RUC-infohands-2020/blob/main/slides/3_指针与自定义类型.pdf)
