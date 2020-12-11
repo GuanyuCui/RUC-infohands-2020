@@ -12,3 +12,5 @@
  #4 第四次课（2020.11.28）  3. 指针与自定义类型 [slides](https://github.com/GuanyuCui/RUC-infohands-2020/blob/main/slides/3_指针与自定义类型.pdf)
 
  #5 第五次课（2020.12.6）  4. 文件与高级程序设计技术.pdf [slides](https://github.com/GuanyuCui/RUC-infohands-2020/blob/main/slides/4_文件与高级程序设计技术.pdf)
+
+ #6 第六次课（2020.12.19）  5. 高级程序设计技术（动态规划）.pdf [slides](https://github.com/GuanyuCui/RUC-infohands-2020/blob/main/slides/5_高级程序设计技术（动态规划）.pdf)
